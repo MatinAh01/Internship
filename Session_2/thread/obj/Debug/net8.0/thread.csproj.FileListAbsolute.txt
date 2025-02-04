@@ -1,0 +1,14 @@
+C:\Users\Matin\Desktop\Internship\Session_2\thread\bin\Debug\net8.0\thread.exe
+C:\Users\Matin\Desktop\Internship\Session_2\thread\bin\Debug\net8.0\thread.deps.json
+C:\Users\Matin\Desktop\Internship\Session_2\thread\bin\Debug\net8.0\thread.runtimeconfig.json
+C:\Users\Matin\Desktop\Internship\Session_2\thread\bin\Debug\net8.0\thread.dll
+C:\Users\Matin\Desktop\Internship\Session_2\thread\bin\Debug\net8.0\thread.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.AssemblyInfoInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.AssemblyInfo.cs
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.csproj.CoreCompileInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.dll
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\refint\thread.dll
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\thread.genruntimeconfig.cache
+C:\Users\Matin\Desktop\Internship\Session_2\thread\obj\Debug\net8.0\ref\thread.dll
