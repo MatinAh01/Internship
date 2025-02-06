@@ -1,20 +1,12 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        Thread t = new(WriteT);
-        t.Start();
+﻿using thread;
 
-        for (int i = 0; i < 100; i++)
-        {
-            Console.Write("M ");
-        }
-    }
-    public static void WriteT()
+internal class Program
+{
+    public static ThreadService _threadService { get; set; } = new ThreadService();
+    public static void Main(string[] args)
     {
-        for (int i = 0; i < 100; i++)
-        {
-            Console.Write("T ");
-        }
+       // _threadService.PtintNumber();
+
+       _threadService.ThreadSynchronization();
     }
 }
