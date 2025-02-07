@@ -1,0 +1,9 @@
+Code Challenge: Producer-Consumer Problem
+Problem Statement
+Implement a Producer-Consumer scenario using multithreading in C#. The goal is to simulate a system where:
+
+1-Producers generate data and add it to a shared buffer (queue).
+
+2-Consumers remove data from the buffer and process it.
+
+3-The buffer has a limited capacity (e.g., 10 items). If the buffer is full, producers must wait until space is available. If the buffer is empty, consumers must wait until data is available.

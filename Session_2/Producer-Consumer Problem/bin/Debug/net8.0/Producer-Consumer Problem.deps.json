@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Producer-Consumer Problem/1.0.0": {
+        "runtime": {
+          "Producer-Consumer Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Producer-Consumer Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\bin\Debug\net8.0\Producer-Consumer Problem.exe
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\bin\Debug\net8.0\Producer-Consumer Problem.deps.json
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\bin\Debug\net8.0\Producer-Consumer Problem.runtimeconfig.json
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\bin\Debug\net8.0\Producer-Consumer Problem.dll
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\bin\Debug\net8.0\Producer-Consumer Problem.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.AssemblyInfoInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.AssemblyInfo.cs
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.csproj.CoreCompileInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.sourcelink.json
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.dll
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\refint\Producer-Consumer Problem.dll
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\Producer-Consumer Problem.genruntimeconfig.cache
+C:\Users\Matin\Desktop\Internship\Session_2\Producer-Consumer Problem\obj\Debug\net8.0\ref\Producer-Consumer Problem.dll
