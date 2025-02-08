@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Download_URLs_Concurrently/1.0.0": {
+        "runtime": {
+          "Download_URLs_Concurrently.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Download_URLs_Concurrently/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
