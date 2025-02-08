@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 internal class Program
 {
     private static readonly HttpClient httpClient = new HttpClient();
+    private static readonly SemaphoreSlim semaphoreSlim = new SemaphoreSlim(2);
     private static async Task Main(string[] args)
     {
         var stopwatch = Stopwatch.StartNew();
@@ -39,10 +40,28 @@ internal class Program
             "https://example.net"
         };
 
-        var Tasks = urls.Select(url => httpClient.GetStringAsync(url)).ToArray();
+        var Tasks = urls.Select(async url =>
+        {
+            await semaphoreSlim.WaitAsync();
+            try
+            {
+                return await httpClient.GetStringAsync(url);
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine($"Failed: {url}, Error: {ex.Message}");
+                return string.Empty;
+            }
+            finally
+            {
+                await Task.Delay(3000);
+                semaphoreSlim.Release();
+            }
+        }).ToArray();
 
         var contents = await Task.WhenAll(Tasks);
-        
+
         for (int i = 0; i < contents.Length; i++)
         {
             Console.WriteLine($"URL {i + 1}: {contents[i].Length} bytes");

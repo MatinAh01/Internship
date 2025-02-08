@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Download_URLs_Concurrently")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff1d47bb1a7f4cc96722659211a54372940eb53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8831a7c74dd960a794f954547db93dea39b0b58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Download_URLs_Concurrently")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Download_URLs_Concurrently")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
