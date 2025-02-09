@@ -1,0 +1,6 @@
+@Log_With_ILoger_HostAddress = http://localhost:5169
+
+GET {{Log_With_ILoger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

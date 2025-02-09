@@ -66,7 +66,5 @@ internal class Program
         {
             Console.WriteLine($"URL {i + 1}: {contents[i].Length} bytes");
         }
-
-
     }
 }
