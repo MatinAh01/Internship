@@ -1,0 +1,15 @@
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\bin\Debug\net8.0\TPL.exe
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\bin\Debug\net8.0\TPL.deps.json
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\bin\Debug\net8.0\TPL.runtimeconfig.json
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\bin\Debug\net8.0\TPL.dll
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\bin\Debug\net8.0\TPL.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.AssemblyInfoInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.AssemblyInfo.cs
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.csproj.CoreCompileInputs.cache
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.sourcelink.json
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.dll
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\refint\TPL.dll
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.pdb
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\TPL.genruntimeconfig.cache
+C:\Users\Matin\Desktop\Internship\Session_2\TPL\obj\Debug\net8.0\ref\TPL.dll

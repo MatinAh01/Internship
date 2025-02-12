@@ -21,7 +21,7 @@
         for (int i = 0; i < consumers.Length; i++)
         {
             int consumerId = i + 1;
-            producers[i] = Task.Run(() => Consumer(consumerId));
+            consumers[i] = Task.Run(() => Consumer(consumerId));
         }
 
         Task.WaitAll(producers);

@@ -1,0 +1,6 @@
+@Log_With_MediatR_HostAddress = http://localhost:5014
+
+GET {{Log_With_MediatR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

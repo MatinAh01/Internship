@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Producer-Consumer Problem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff1d47bb1a7f4cc96722659211a54372940eb53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff0cdc29a52db0cad0bf2d76ef924246042e2c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Producer-Consumer Problem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Producer-Consumer Problem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+@Log_With_Decorator_HostAddress = http://localhost:5151
+
+GET {{Log_With_Decorator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
